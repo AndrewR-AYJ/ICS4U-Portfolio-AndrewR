@@ -9,7 +9,7 @@ Module 1: Intro to HTML/CSS
 Module 2: Intro to JS  
 Module 3: Advanved JS - Natural Simulations  
 Module 4: Advanced JS - Algorithms  
-Module 5: Free Code Camp - Basic HTML and HTML5
+Module 5: Free Code Camp - Basic HTML and HTML5  
 Module 6: Microbit  
 Module 7: [...]  
 Module 8: [...]  
