@@ -5,11 +5,11 @@ A reference to a collection of the work done in ICS4U winter 2019 AYJ.
 ## Contents:
 ---
 ### Below is a list of work I have completed over the course of the semester.
-Module 1: Intro to HTML/CSS  
-Module 2: Intro to JS  
+Module 1: Intro to HTML/CSS [Done]  
+Module 2: Intro to JS [Done]  
 Module 3: Advanved JS - Natural Simulations  
 Module 4: Advanced JS - Algorithms  
-Module 5: Free Code Camp - Basic HTML and HTML5  https://learn.freecodecamp.org/  
+Module 5: Free Code Camp - Basic HTML and HTML5  https://learn.freecodecamp.org/  [Done]
 Module 6: Free Code Camp - Introduction to Basic CSS  
 Module 7: [...]  
 Module 8: [...]  
