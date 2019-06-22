@@ -14,4 +14,4 @@ Module 6: Free Code Camp - Introduction to Basic CSS
 Module 7: [...]  
 Module 8: [...]  
 Module 9: [...]  
-Module 10: Microbit 
+Module 10: Microbit [Done] 
