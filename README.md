@@ -9,7 +9,7 @@ Module 1: Intro to HTML/CSS [Done]
 Module 2: Intro to JS [Done]  
 Module 3: Advanved JS - Natural Simulations  
 Module 4: Advanced JS - Algorithms  
-Module 5: Free Code Camp - Basic HTML and HTML5  https://learn.freecodecamp.org/  [Done]
+Module 5: Free Code Camp - Basic HTML and HTML5  https://learn.freecodecamp.org/ [Done]  
 Module 6: Free Code Camp - Introduction to Basic CSS  
 Module 7: [...]  
 Module 8: [...]  
